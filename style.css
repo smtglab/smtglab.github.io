@@ -566,7 +566,7 @@ header img{
     }
     header .navbar ul li a{
          color: var(--main-color);
-         font-size: 1.5rem;
+         font-size: 1rem;
 
         }
         .header .fa-times{
